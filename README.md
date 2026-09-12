@@ -40,20 +40,25 @@ created using Cisco Packet Tracer.
 
 ## 💻 Important Commands
 
-- `ipconfig`
-- `ping`
-- `show ip interface brief`
-- `show interfaces status`
-- `show interfaces`
-- `show vlan brief`
-- `shutdown`
-- `no shutdown`
+- `ipconfig` — Displays a PC's IP configuration
+- `ping` — Tests network connectivity
+- `show ip interface brief` — Checks router interfaces, IPs and status
+- `show interfaces status` — Checks switch port status
+- `show interfaces` — Displays detailed interface information
+- `show vlan brief` — Displays VLANs and assigned ports
+- `shutdown` — Disables an interface
+- `no shutdown` — Enables an interface
+- `enable` — Enters privileged EXEC mode
+- `configure terminal` — Enters global configuration mode
+- `interface` — Selects an interface for configuration
+- `switchport mode access` — Configures a switch port as an access port
+- `switchport access vlan` — Assigns a switch port to a VLAN
 
 ## 📸 Screenshots
 
-Screenshots demonstrating topology, configuration,
+Screenshots demonstrating the topology, configuration,
 faults, troubleshooting and successful resolution are
-included in the screenshots folder.
+included in this repository.
 
 ## ✅ Result
 
