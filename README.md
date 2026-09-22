@@ -52,7 +52,7 @@ created using Cisco Packet Tracer.
 - `configure terminal` — Enters global configuration mode
 - `interface` — Selects an interface for configuration
 - `switchport mode access` — Configures a switch port as an access port
-- `switchport access vlan` — Assigns a switch port to a VLAN
+- `switchport access vlan` — Assigns a switch port to a VLAN 
 
 ## 📸 Screenshots
 
